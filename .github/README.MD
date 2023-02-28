@@ -4,7 +4,7 @@
 </h2>
 
 FULL KANG OF EXON ROBOT
-ALL CREDITS TO [𝐀𝖻𝗂𝗌𝗁𝗇𝗈𝗂](https://github.com/Abishnoi69)
+ALL CREDITS TO [𝐀𝖻𝗂𝗌𝗁𝗇𝗈𝗂](https://github.com/Alatheesh)
 AND TEAM
 
 THIS IS KANGED AND IMPORTED FOR YOUTUBE VIDEO
@@ -32,7 +32,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ʀᴏᴄᴋʏ ᴄ�
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Abishnoi69/ExonRobot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Alatheesh/ROCKY"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 <h3 align="center">
