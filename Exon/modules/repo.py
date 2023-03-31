@@ -17,7 +17,7 @@ async def repo(_, message):
         photo=ABISHNOIX,
         caption=f"""✨ **ʜᴇʏ {message.from_user.mention},**
 
-**ᴏᴡɴᴇʀ  : [ᴊᴇᴏʟ](https://t.me/jeol_tg)**
+**ᴏᴡɴᴇʀ  : [LATHEESH](https://t.me/sula20062007)**
 **ᴘʏᴛʜᴏɴ ᴠᴇʀꜱɪᴏɴ :** `{y()}`
 **ʟɪʙʀᴀʀʏ ᴠᴇʀꜱɪᴏɴ :** `{o}`
 **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀꜱɪᴏɴ :** `{s}`
@@ -28,7 +28,7 @@ async def repo(_, message):
             [
                 [
                     InlineKeyboardButton(
-                        "•Repo•", url="https://github.com/Itz-JEOL/ROCKY"
+                        "•Repo•", url="https://t.me/llathu63035"
                     ),
                 ]
             ]
